@@ -1,0 +1,3 @@
+# NCTaskManager
+
+This repository was created to upload NetCracker Practices...
